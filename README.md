@@ -30,7 +30,7 @@ Para clonar e executar este projeto, execute na sua linha de comando:
 $ git clone https://github.com/JuscelinoMamede01/calculadora-js.git
 
 # Acessando o repositório
-$ cd calculadora-web
+$ cd calculadora-js
 ```
 
 by Juscelino Mamede
