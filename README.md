@@ -4,7 +4,7 @@ Este projeto consiste numa calculadora web que possui funcionalidades básicas d
 
 ## 👀 Demo
 
-Para experimentar o projeto em ação, acesse a versão de demonstração [clicando aqui](https://augustocesarfmo.github.io/calculadora-web/).
+Para experimentar o projeto em ação, acesse a versão de demonstração [clicando aqui](https://juscelinomamede01.github.io/calculadora-js/).
 
 <div style="display: flex; justify-content: center">
 <img src="https://raw.githubusercontent.com/JuscelinoMamede01/Calculadora-JS/main/img/calc-img" width="50%">
@@ -27,10 +27,10 @@ Para clonar e executar este projeto, execute na sua linha de comando:
 
 ```bash
 # Clonando este repositório
-$ git clone https://github.com/augustocesarfmo/calculadora-web.git
+$ git clone https://github.com/JuscelinoMamede01/calculadora-js.git
 
 # Acessando o repositório
 $ cd calculadora-web
 ```
 
-by Augusto César Oliveira 👐🏼
+by Juscelino Mamede
