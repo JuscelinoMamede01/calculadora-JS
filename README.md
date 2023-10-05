@@ -7,7 +7,7 @@ Este projeto consiste numa calculadora web que possui funcionalidades básicas d
 Para experimentar o projeto em ação, acesse a versão de demonstração [clicando aqui](https://juscelinomamede01.github.io/calculadora-js/).
 
 <div style="display: flex; justify-content: center">
-<img src="https://raw.githubusercontent.com/JuscelinoMamede01/Calculadora-JS/main/img/calc-img" width="50%">
+<img src="https://raw.githubusercontent.com/JuscelinoMamede01/calculadora-js/main/img/calc-img" width="50%">
 </div>
 
 ## 🚀 Tecnologias
